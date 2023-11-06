@@ -2,7 +2,7 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Frailway-images&plugins=postgresql)
 
-[Next.js](https://nextjs.org/) + [Prisma](https://prisma.io/) app hosted on [Railway](https://railway.app)
+[Next.js](https://nextjs.org/) + [Prisma](https://prisma.io/) app hosted on [Railway](https://railway.app).
 
 ## Getting Started
 
